@@ -26,7 +26,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency "rake",         "~> 13.0"
   s.add_development_dependency "rspec",        "~> 3.8"
   s.add_development_dependency "sinatra",      "~> 2.0"
-  s.add_development_dependency "puma",         "~> 4.1"
+  s.add_development_dependency "puma",         "~> 5.2"
   s.add_development_dependency "image_size",   "~> 2.0"
   s.add_development_dependency "pdf-reader",   "~> 2.2"
   s.add_development_dependency "chunky_png",   "~> 1.3"
